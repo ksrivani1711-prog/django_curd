@@ -101,7 +101,7 @@ else:
             "ENGINE": "django.db.backends.mysql",
             "NAME": "srivanidb",
             "USER": "root",
-            "PASSWORD": "7670856442",
+            "PASSWORD": "",
             "HOST": "localhost",
             "PORT": "3306",
         }
